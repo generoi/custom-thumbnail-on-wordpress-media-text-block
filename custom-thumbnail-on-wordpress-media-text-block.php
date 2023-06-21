@@ -6,7 +6,7 @@
  * Version: 1.0.0
  * Author: Shayan Abbas
  * Author URI: https://github.com/shayanabbas/
- * License: MIT License
+ * License: GPL 3.0 License
  */
 
 

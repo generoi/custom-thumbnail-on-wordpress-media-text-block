@@ -2,8 +2,9 @@
   "name": "generoi/custom-thumbnail-on-wordpress-media-text-block",
   "description": "Adds a custom thumbnail option to the WordPress media-text block",
   "type": "wordpress-plugin",
+  "homepage": "https://github.com/generoi/custom-thumbnail-on-wordpress-media-text-block",
   "require": {
-    "composer/installers": "^1.11"
+    "php": ">=7.0.0"
   },
   "authors": [
     {
@@ -11,8 +12,24 @@
       "email": "shayanabbas@outlook.com"
     }
   ],
+  "keywords": [
+    "wordpress"
+  ],
+  "support": {
+    "issues": "https://github.com/generoi/custom-thumbnail-on-wordpress-media-text-block/issues"
+  },
   "autoload": {
     "files": ["custom-thumbnail-on-wordpress-media-text-block.php"]
-  }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://wpackagist.org"
+    },
+    {
+      "type": "composer",
+      "url": "https://packagist.minasithil.genero.fi/"
+    }
+  ]
 }
 
