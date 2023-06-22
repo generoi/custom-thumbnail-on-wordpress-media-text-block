@@ -19,7 +19,6 @@
     "issues": "https://github.com/generoi/custom-thumbnail-on-wordpress-media-text-block/issues"
   },
   "autoload": {
-    "files": ["custom-thumbnail-on-wordpress-media-text-block.php"]
   },
   "repositories": [
     {
